@@ -1,5 +1,5 @@
 # Practice-Python
-"Practice Python" es una página web que ofrece 40 ejercicios para principiantes, organizados en 3 niveles de dificultad (representados por un chile picante 🏆). En este repositorio, compartiré mis soluciones a estos ejercicios, junto con las soluciones oficiales de la página.
+"Practice Python" es una página web que ofrece 40 ejercicios para principiantes, organizados en 3 niveles de dificultad (representados por un chile picante 🌶️). En este repositorio, compartiré mis soluciones a estos ejercicios, junto con las soluciones oficiales de la página.
 
 Mi objetivo no es solo resolver los problemas, sino mejorarlos al máximo, optimizando el código hasta alcanzar la solución más eficiente y elegante posible. Con esto, busco potenciar mi capacidad de resolución de problemas y dominar los fundamentos de Python.
 
